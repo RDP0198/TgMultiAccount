@@ -163,12 +163,17 @@ $ uvicorn main:app --host 0.0.0.0 --port 8080
 - Integration with ChatGPT or/and Dialogflow
 - Ability to write custom functions by visual programing like scratch
 
-## ❤️ Support the Project
+## ❤️ Support the Developer
 
 <p align="center">
-    <b>UPI ID:</b> kumarankush711781@ibl
+  ⭐ Your support keeps this project alive!
 </p>
 
 <p align="center">
-    Thank you for your support 🙏
+  💳 <b>UPI ID:</b><br>
+  <code>kumarankush711781@ibl</code>
+</p>
+
+<p align="center">
+  ☕ Buy me a coffee and motivate future updates 🚀
 </p>
