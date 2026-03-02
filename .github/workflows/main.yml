@@ -34,5 +34,6 @@ jobs:
         BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
         OWNER_ID: ${{ secrets.OWNER_ID }}
         MONGO_URI: ${{ secrets.MONGO_URI }}
+        DATABASE_URL: ${{ secrets.DATABASE_URL }}   # 👈 Ye add kiya
       run: |
         python main.py
