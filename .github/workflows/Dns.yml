@@ -1,4 +1,0 @@
-- name: Debug DNS
-  run: |
-    nslookup db.cjvslvnriptthwpnqlmp.supabase.co
-    ping -c 1 db.cjvslvnriptthwpnqlmp.supabase.co || true
